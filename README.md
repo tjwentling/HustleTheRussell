@@ -2,8 +2,10 @@
 
 # Dates
 
-initial start of historical data: 2018-01-01 from all indices
+Initial start of historical data: 2018-01-01 from all indices
+
 change from test to prediction: 10/31/2022
+
 end of prediction: 6/30/2023
 
 # Summary
@@ -20,7 +22,7 @@ Tools:
 * macroeconomic data (gov sites)
 
 
-References only:
+# References only:
 
 Create a Jupyter Notebook, Google Colab Notebook, or Amazon SageMaker Notebook to prepare a training and testing dataset.
 
