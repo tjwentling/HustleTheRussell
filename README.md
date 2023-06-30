@@ -2,7 +2,7 @@
 
 # Dates
 
-Initial start of historical data: 2018-01-01 from 7 indices
+Initial start of historical data: 2018-01-01 from 7 selected Russell indices
 
 change from test to prediction: 10/31/2022
 
