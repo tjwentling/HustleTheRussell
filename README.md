@@ -1,8 +1,24 @@
 # HustleTheRussell
 
-Dates
+#Dates
+initial start of historical data: 2018-01-01 from all indices
+change from test to prediction: 10/31/2022
+end of prediction: 6/30/2023
+
+#Summary
+Our analysis attemps to predict future performance of various equity market stylistic factors by analyzing historical return profiles of 7 Russell ETFs that comprise the entire spectrum of the US equity market. This analysis will also incorporate macroeconomic data points that will help us describe results and potential deviations in predicted relative returns. 
+
+Tools:
+*Alpaca
+*Jupyter Lab
+*Pandas
+*Sklearn
+*keras
+*hv.plot
+*macroeconomic data (gov sites)
 
 
+References only:
 Create a Jupyter Notebook, Google Colab Notebook, or Amazon SageMaker Notebook to prepare a training and testing dataset.
 
 
