@@ -2,7 +2,7 @@
 
 # Dates
 
-Initial start of historical data: 2018-01-01 from all indices
+Initial start of historical data: 2018-01-01 from all 7 indices
 
 change from test to prediction: 10/31/2022
 
