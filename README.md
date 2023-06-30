@@ -10,7 +10,7 @@ end of prediction: 6/30/2023
 
 # Indices
 
-![]("figures/image.png")
+![](figures/image.png)
 
 # Summary
 
