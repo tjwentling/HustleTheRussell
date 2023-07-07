@@ -32,6 +32,13 @@ Tools:
 
 ![image](https://github.com/tjwentling/HustleTheRussell/assets/57773931/f601c6f7-a9c1-422e-8063-f6174c73d241)
 
+# IWV
+# IWB
+# IWF
+# IWD
+# IWM
+# IWO
+# IWN
 
 # References only:
 
