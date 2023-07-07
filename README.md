@@ -2,13 +2,15 @@
 
 The Russell US Indexes, from mega cap to microcap, serve as leading benchmarks for institutional investors. The modular index construction allows investors to track current and historical market performance by specific market segment (large/mid/small/micro cap) or investment style (growth/value/defensive/dynamic). All sub-indexes roll up to the Russell 3000® Index. The Russell US Indexes can be used as performance benchmarks, or as the basis for index-linked products including index tracking funds, derivatives, and Exchange Traded Funds (ETFs).
 
+In HussleTheRussell, we are analyzing the top 7 Russell indexes to determine how our models will perform compared to their perspective index. We have pulled data from Alpaca to get baseline data which we have used to model, test, and predict future returns. The following is what we discovered.
+
 # Dates
 
-Initial start of historical data: 2018-01-01 from 7 selected Russell indices
+Start Date of Training Data: 2018-01-01
 
-change from test to prediction: 10/31/2022
+Start Date of Prediction Data: 10/31/2022
 
-end of prediction: 6/30/2023
+End Date of Prediction Data: 6/30/2023
 
 # Indices
 
