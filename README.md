@@ -1,5 +1,7 @@
 # HustleTheRussell
 
+The Russell US Indexes, from mega cap to microcap, serve as leading benchmarks for institutional investors. The modular index construction allows investors to track current and historical market performance by specific market segment (large/mid/small/micro cap) or investment style (growth/value/defensive/dynamic). All sub-indexes roll up to the Russell 3000® Index. The Russell US Indexes can be used as performance benchmarks, or as the basis for index-linked products including index tracking funds, derivatives, and Exchange Traded Funds (ETFs).
+
 # Dates
 
 Initial start of historical data: 2018-01-01 from 7 selected Russell indices
@@ -24,6 +26,9 @@ Tools:
 * keras
 * hv.plot
 * macroeconomic data (gov sites)
+
+
+![image](https://github.com/tjwentling/HustleTheRussell/assets/57773931/f601c6f7-a9c1-422e-8063-f6174c73d241)
 
 
 # References only:
