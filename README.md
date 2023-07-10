@@ -32,7 +32,13 @@ Tools:
 
 ![image](https://github.com/tjwentling/HustleTheRussell/assets/57773931/f601c6f7-a9c1-422e-8063-f6174c73d241)
 
-# IWV
+# IWV iShare Russell 3000 EFT:
+Overview of why invest in IMV:
+Exposes its investors to a broad range of U.S. companies
+Provides access to 3000 domestic stocks in a single fund
+Investors use it to seek long-term growth.
+
+The objective of the IWV: The iShares Russell 3000 ETF seeks to track the investment results of a broad-based index composed of U.S. equities.
 # IWB
 # IWF
 # IWD
@@ -50,13 +56,7 @@ Seven indices we chose to focus on:
 
 The objective of Russell 2000: The Russell 2000 is an important stock index because owning stocks of various sizes is a common way people diversify their investments. Other well-known indices, including the Dow Jones Industrial Average and the S&P 500, focus on large-cap stocks of well-established companies. But the Russell 2000 is a popular index for gauging returns on U.S. small-cap stocks.
 
-IWV: iShare Russell 3000 EFT:
-Overview of why invest in IMV:
-Exposes its investors to a broad range of U.S. companies
-Provides access to 3000 domestic stocks in a single fund
-Investors use it to seek long-term growth.
-
-The objective of the IWV: The iShares Russell 3000 ETF seeks to track the investment results of a broad-based index composed of U.S. equities.
+IWV: 
 
 IWB: iShare Rusell 1000 EFT:
 Overview of why invest in the IWB:
