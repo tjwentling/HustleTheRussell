@@ -39,12 +39,49 @@ Provides access to 3000 domestic stocks in a single fund
 Investors use it to seek long-term growth.
 
 The objective of the IWV: The iShares Russell 3000 ETF seeks to track the investment results of a broad-based index composed of U.S. equities.
-# IWB
-# IWF
-# IWD
-# IWM
-# IWO
-# IWN
+# IWB iShare Rusell 1000 EFT:
+Overview of why invest in the IWB:
+Exposes its investor to large U.S. companies
+Provide them access to 1000 domestic stocks in a single fund.
+Investors use it to seek long-term growth.
+
+The objective of the IWB: The iShares Russell 1000 ETF seeks to track the investment results of an index composed of large and mid-capitalization U.S. equities.
+# IWF iShares Russell 1000 Growth EFT:
+Overview of why invest in the IWF:
+It exposes its investors to U.S. companies whose earnings are expected to grow at an above rate relative to the market.
+It offers targeted access to a specific category of domestic stocks.
+It tilts the investors' portfolio towards growth stocks.
+
+Objective iShussell 1000 Growth ETF seeks to track the investment results of an index composed of large- and mid-capitalization U.S. equities with growth characteristics.
+# IWD iShares Russell 1000 Value EFT
+Overview of why invest in the IWD:
+It exposes its investors to U.S. companies that are considered undervalued by the market relative to comparable companies.
+It offers targeted access to a specific category of domestic stocks.
+It tilts the investors' portfolio towards value stocks.
+
+The objective of IWD: The iShares Russell 1000 Value ETF seeks to track the investment results of an index composed of large- and mid-capitalization U.S. equities that exhibit value characteristics.
+# IWM iShares Russell 2000 Value EFT
+Overview of why invest in the IWM:
+It exposes the investors to small public companies that are considered undervalued by the market relative to comparable companies.
+It offers targeted access to a specific category of small-cap domestic stocks.
+Investors use it to diversify a U.S. stock allocation and tilt the investors' portfolios toward value stocks.
+
+The objective of IWN: The iShares Russell 2000 Value ETF seeks to track the investment results of an index composed of small-capitalization U.S. equities that exhibit value characteristics.
+# IWO iShares Russell 2000 Growth EFT
+Overview of why invest in the IWO:
+It exposes investors to small public U.S. companies whose earnings are expected to grow above average relative to the market.
+It offers targeted access to a specific category of small-cap domestic stocks.
+Investors use it to diversify U.S. allocation and tilt the investors' portfolios toward growth stocks.
+
+The objective of IWO: The iShares Russell 2000 Growth ETF seeks to track the investment results of an index composed of small-capitalization U.S. equities that exhibit growth characteristics.
+# IWN iShares Russell 2000 Value ETF
+Overview of why invest in the IWN
+It exposes investors to small public U.S. companies that are considered undervalued by the market relative to comparable companies.
+It offers targeted access to a specific category of small-cap domestic stocks.
+Investors use it to diversify U.S. allocation and tilt the investors' portfolios toward value stocks.
+
+The objective of IWN: The iShares Russell 2000 Value ETF seeks to track the investment results of an index composed of small-capitalization U.S. equities that exhibit value characteristics.
+
 
 # Backgound of the Russell:
 
