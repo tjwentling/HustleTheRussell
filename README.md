@@ -27,18 +27,18 @@ Tools:
 * Sklearn
 * keras
 * hv.plot
-* macroeconomic data (gov sites)
+* macroeconomic data (government sites)
 
 
 ![image](https://github.com/tjwentling/HustleTheRussell/assets/57773931/f601c6f7-a9c1-422e-8063-f6174c73d241)
 
 # IWV iShare Russell 3000 ETF:
-Overview of why invest in IMV:
+Overview:
 Exposes its investors to a broad range of U.S. companies
 Provides access to 3000 domestic stocks in a single fund
 Investors use it to seek long-term growth.
 
-The objective of the IWV: The iShares Russell 3000 ETF seeks to track the investment results of a broad-based index composed of U.S. equities.
+Objective: The iShares Russell 3000 ETF seeks to track the investment results of a broad-based index composed of U.S. equities.
 # IWB iShare Rusell 1000 ETF:
 Overview of why invest in the IWB:
 Exposes its investor to large U.S. companies
