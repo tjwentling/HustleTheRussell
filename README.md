@@ -4,7 +4,7 @@ The Russell US Indexes, from mega cap to microcap, serve as leading benchmarks f
 
 In HussleTheRussell, we are analyzing the top 7 Russell indexes to determine how our models will perform compared to their perspective index. We have pulled data from Alpaca to get baseline data which we have used to model, test, and predict future returns. The following is what we discovered.
 
-# Dates
+## Dates
 
 Start Date of Training Data: 2018-01-01
 
@@ -12,11 +12,11 @@ Start Date of Prediction Data: 10/31/2022
 
 End Date of Prediction Data: 6/30/2023
 
-# Indices
+## Indices
 
 ![](figures/image.png)
 
-# Summary
+## Summary
 
 Our analysis attemps to predict future performance of various equity market stylistic factors by analyzing historical return profiles of 7 Russell ETFs that comprise the entire spectrum of the US equity market. This analysis will also incorporate macroeconomic data points that will help us describe results and potential deviations in predicted relative returns. 
 
@@ -32,44 +32,44 @@ Tools:
 
 ![image](https://github.com/tjwentling/HustleTheRussell/assets/57773931/f601c6f7-a9c1-422e-8063-f6174c73d241)
 
-# IWV iShare Russell 3000 ETF:
+### **IWV** iShare Russell 3000 ETF:
 Overview:
 Exposes its investors to a broad range of U.S. companies and provides access to 3000 domestic stocks in a single fund. Investors use it to seek long-term growth.
 
 Objective: The iShares Russell 3000 ETF seeks to track the investment results of a broad-based index composed of U.S. equities.
-# IWB iShare Rusell 1000 ETF:
+### **IWB** iShare Rusell 1000 ETF:
 Overview:
 Exposes it's investors to large U.S. companies and provides them access to 1000 domestic stocks in a single fund. Investors use it to seek long-term growth.
 
 Objective: The iShares Russell 1000 ETF seeks to track the investment results of an index composed of large and mid-capitalization U.S. equities.
-# IWF iShares Russell 1000 Growth ETF:
+### **IWF** iShares Russell 1000 Growth ETF:
 Overview:
 It exposes it's investors to U.S. companies whose earnings are expected to grow at an above rate relative to the market. It offers targeted access to a specific category of domestic stocks. It tilts the investors' portfolio towards growth stocks.
 
 Objective: iShussell 1000 Growth ETF seeks to track the investment results of an index composed of large- and mid-capitalization U.S. equities with growth characteristics.
-# IWD iShares Russell 1000 Value ETF:
+### **IWD** iShares Russell 1000 Value ETF:
 Overview:
 It exposes it's investors to U.S. companies that are considered undervalued by the market relative to comparable companies. It offers targeted access to a specific category of domestic stocks. It tilts the investors' portfolio towards value stocks.
 
 Objective: The iShares Russell 1000 Value ETF seeks to track the investment results of an index composed of large- and mid-capitalization U.S. equities that exhibit value characteristics.
-# IWM iShares Russell 2000 Value ETF:
+### **IWM** iShares Russell 2000 Value ETF:
 Overview:
 It exposes the investors to small public companies that are considered undervalued by the market relative to comparable companies. It offers targeted access to a specific category of small-cap domestic stocks. Investors use it to diversify a U.S. stock allocation and tilt the investors' portfolios toward value stocks.
 
 Objective: The iShares Russell 2000 Value ETF seeks to track the investment results of an index composed of small-capitalization U.S. equities that exhibit value characteristics.
-# IWO iShares Russell 2000 Growth ETF:
+### **IWO** iShares Russell 2000 Growth ETF:
 Overview:
 It exposes investors to small public U.S. companies whose earnings are expected to grow above average relative to the market. It offers targeted access to a specific category of small-cap domestic stocks. Investors use it to diversify U.S. allocation and tilt the investors' portfolios toward growth stocks.
 
 Objective: The iShares Russell 2000 Growth ETF seeks to track the investment results of an index composed of small-capitalization U.S. equities that exhibit growth characteristics.
-# IWN iShares Russell 2000 Value ETF:
+### **IWN** iShares Russell 2000 Value ETF:
 Overview:
 It exposes investors to small public U.S. companies that are considered undervalued by the market relative to comparable companies. It offers targeted access to a specific category of small-cap domestic stocks. Investors use it to diversify U.S. allocation and tilt the investors' portfolios toward value stocks.
 
 Objective: The iShares Russell 2000 Value ETF seeks to track the investment results of an index composed of small-capitalization U.S. equities that exhibit value characteristics.
 
 
-# Backgound of the Russell:
+## Backgound of the Russell:
 
 Created in 1984, the Russell 2000 Index follows the performance of a group of roughly 2,000 small-cap stocks and is a common economic indicator for that segment of the U.S. market.
 
@@ -81,7 +81,7 @@ The objective of Russell 2000: The Russell 2000 is an important stock index beca
 
 Source: iShares by Blackrock
 
-# References only:
+## References only:
 
 Create a Jupyter Notebook, Google Colab Notebook, or Amazon SageMaker Notebook to prepare a training and testing dataset.
 
