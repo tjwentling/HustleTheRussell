@@ -91,7 +91,7 @@ Source: iShares by Blackrock
 
 ## Model Analysis
 
-https://files.slack.com/files-pri/T04MZJY0WB0-F05GNSH9KPW/cumprods.png
+![](cumprods.png)
 
 ## References only REMOVE THIS BEFORE PRESENTATION!:
 
