@@ -6,7 +6,7 @@ In HussleTheRussell, we are analyzing the top 7 Russell indexes to determine how
 
 ## Dates
 
-Start Date of Training Data: 2018-01-01
+Start Date of Training Data: 01/01/2018
 
 Start Date of Prediction Data: 10/31/2022
 
@@ -89,7 +89,7 @@ The objective of Russell 2000: The Russell 2000 is an important stock index beca
 
 Source: iShares by Blackrock
 
-## References only:
+## References only REMOVE THIS BEFORE PRESENTATION!:
 
 > #### The quarterly results look great!
 >
