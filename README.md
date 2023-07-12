@@ -89,9 +89,14 @@ The objective of Russell 2000: The Russell 2000 is an important stock index beca
 
 Source: iShares by Blackrock
 
-## Model Analysis
+## Model Analysis Using IWV
 
+### 6 Model Simulation
 ![](cumprods.png)
+
+### Takeaways
+
+The Support Vector machines model outperformed the actual returns over the time period, while the Logistic Regression model underperformed. Both the Random Forest and Naive Bayes were nearly equivalent to the actual returns. 
 
 ## References only REMOVE THIS BEFORE PRESENTATION!:
 
