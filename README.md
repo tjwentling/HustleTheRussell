@@ -89,6 +89,10 @@ The objective of Russell 2000: The Russell 2000 is an important stock index beca
 
 Source: iShares by Blackrock
 
+## Model Analysis
+
+https://files.slack.com/files-pri/T04MZJY0WB0-F05GNSH9KPW/cumprods.png
+
 ## References only REMOVE THIS BEFORE PRESENTATION!:
 
 > #### The quarterly results look great!
