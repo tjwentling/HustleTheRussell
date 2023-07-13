@@ -98,6 +98,13 @@ Source: iShares by Blackrock
 
 The Support Vector machines model outperformed the actual returns over the time period, while the Logistic Regression model underperformed. Both the Random Forest and Naive Bayes were nearly equivalent to the actual returns. 
 
+## Team 2 Contributors:
+
+Susan Bengo - Conclusion
+Michael Cody - 
+TJ Wentling - Intro
+Tingjun Yang - 
+
 ## References only REMOVE THIS BEFORE PRESENTATION!:
 
 > #### The quarterly results look great!
