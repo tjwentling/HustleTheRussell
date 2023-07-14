@@ -8,13 +8,48 @@ In HussleTheRussell, we are analyzing the top 7 Russell indexes to determine how
 
 Start Date of Training Data: 01/01/2018
 
-Start Date of Prediction Data: 10/31/2022
-
 End Date of Prediction Data: 6/30/2023
 
 ## Indices
 
 ![](figures/image.png)
+
+Large Cap = large companies such as Apple, Microsoft, etc. (typically > $40-50B) <br>
+Small Cap = smaller companies (typically less than $6-7B) <br>
+
+Growth = higher PE ratios, earlier stage companies with more growth potential <br>
+Value = lower PE ratios, higher book/value ratios, higher dividend yields (spend on dividends to keep investors interested given lower growth potential) <br>
+
+![](figures/mc_all_performance.png)
+
+**Over 5.5 year period:** <br>
+Significant outperformance of large cap stocks (especially growth) <br>
+Growth stocks across cap rebounded better after recession due to injection of cash into markets and lower rates, creating an optimal situation for companies with higher levels of debt <br>
+
+Using the logistic regression and predicted B/S signals, back-tested trading algorithms.
+
+**Russell 1000 Total**
+
+
+![](figures/R1T_perf.png)
+![](figures/R1T_class.png)
+
+
+
+**Russell 1000 Value**
+
+
+![](figures/R1V_perf.png)
+![](figures/R1v_class.png)
+
+
+
+**Russell 2000 Value**
+
+
+![](figures/R2V_perf.png)
+![](figures/R2V_class.png)
+
 
 ## Summary
 
@@ -27,10 +62,7 @@ Tools:
 * Sklearn
 * keras
 * hv.plot
-* macroeconomic data (government sites)
 
-
-![image](https://github.com/tjwentling/HustleTheRussell/assets/57773931/f601c6f7-a9c1-422e-8063-f6174c73d241)
 
 > ## Backgound of the Russell:
 >
@@ -97,6 +129,13 @@ Source: iShares by Blackrock
 ### Takeaways
 
 The Support Vector machines model outperformed the actual returns over the time period, while the Logistic Regression model underperformed. Both the Random Forest and Naive Bayes were nearly equivalent to the actual returns. 
+
+## Team 2 Contributors:
+
+Susan Bengo - Conclusion<br>
+Michael Cody - <br>
+TJ Wentling - Intro <br>
+Tingjun Yang - <br>
 
 ## References only REMOVE THIS BEFORE PRESENTATION!:
 
