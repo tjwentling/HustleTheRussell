@@ -14,17 +14,17 @@ End Date of Prediction Data: 6/30/2023
 
 ![](figures/image.png)
 
-Large Cap = large companies such as Apple, Microsoft, etc. (typically > $40-50B)
-Small Cap = smaller companies (typically less than $6-7B)
+Large Cap = large companies such as Apple, Microsoft, etc. (typically > $40-50B) <br>
+Small Cap = smaller companies (typically less than $6-7B) <br>
 
-Growth = higher PE ratios, earlier stage companies with more growth potential
-Value = lower PE ratios, higher book/value ratios, higher dividend yields (spend on dividends to keep investors interested given lower growth potential)
+Growth = higher PE ratios, earlier stage companies with more growth potential <br>
+Value = lower PE ratios, higher book/value ratios, higher dividend yields (spend on dividends to keep investors interested given lower growth potential) <br>
 
 ![](figures/mc_all_performance.png)
 
-**Over 5.5 year period:**
-Significant outperformance of large cap stocks (especially growth)
-Growth stocks across cap rebounded better after recession due to injection of cash into markets and lower rates, creating an optimal situation for companies with higher levels of debt
+**Over 5.5 year period:** <br>
+Significant outperformance of large cap stocks (especially growth) <br>
+Growth stocks across cap rebounded better after recession due to injection of cash into markets and lower rates, creating an optimal situation for companies with higher levels of debt <br>
 
 Using the logistic regression and predicted B/S signals, back-tested trading algorithms.
 
