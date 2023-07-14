@@ -4,11 +4,18 @@ The Russell US Indexes, from mega cap to microcap, serve as leading benchmarks f
 
 In HussleTheRussell, we are analyzing the top 7 Russell indexes to determine how our models will perform compared to their perspective index. We have pulled data from Alpaca to get baseline data which we have used to model, test, and predict future returns. The following is what we discovered.
 
-## Dates
+## Dates and Tools
 
 Start Date of Training Data: 01/01/2018
 
-End Date of Prediction Data: 6/30/2023
+End Date of Prediction Data: 6/30/2023 
+
+Tools:
+* Alpaca
+* Jupyter Lab
+* Pandas
+* Sklearn
+* hv.plot
 
 ## Indices
 
@@ -51,24 +58,9 @@ Using the logistic regression and predicted B/S signals, back-tested trading alg
 ![](figures/R2V_class.png)
 
 
-## Summary
-
-Our analysis attemps to predict future performance of various equity market stylistic factors by analyzing historical return profiles of 7 Russell ETFs that comprise the entire spectrum of the US equity market. This analysis will also incorporate macroeconomic data points that will help us describe results and potential deviations in predicted relative returns. 
-
-Tools:
-* Alpaca
-* Jupyter Lab
-* Pandas
-* Sklearn
-* keras
-* hv.plot
-
-
 > ## Backgound of the Russell:
 >
->> Created in 1984, the Russell 2000 Index follows the performance of a group of roughly 2,000 small-cap stocks and is a common economic indicator for that segment of the U.S. market.
->>
->> The Russell 2000 is an important stock index because owning stocks of various sizes is a common way people diversify their investments. Other well-known indices, including the Dow Jones Industrial Average and the S&P 500, focus on large-cap stocks of well-established companies. But the Russell 2000 is a popular index for gauging returns on U.S. small-cap stocks.
+>> Launched in 1984, the Russell 3000 Index is a capitalization-weighted stock market index that seeks to be a benchmark of the entire U.S. stock market. It measures the performance of the 3,000 largest publicly held companies incorporated in America as measured by total market capitalization and represents approximately 97% of the American public equity markets.
 
 **Seven indices we chose to focus on:**
 
@@ -113,11 +105,6 @@ Tools:
 >> It exposes investors to small public U.S. companies that are considered undervalued by the market relative to comparable companies. It offers targeted access to a specific category of small-cap domestic stocks. Investors use it to diversify U.S. allocation and tilt the investors' portfolios toward value stocks.
 >>
 >> Objective: The iShares Russell 2000 Value ETF seeks to track the investment results of an index composed of small-capitalization U.S. equities that exhibit value characteristics.
-
-
-
-
-The objective of Russell 2000: The Russell 2000 is an important stock index because owning stocks of various sizes is a common way people diversify their investments. Other well-known indices, including the Dow Jones Industrial Average and the S&P 500, focus on large-cap stocks of well-established companies. But the Russell 2000 is a popular index for gauging returns on U.S. small-cap stocks.
 
 Source: iShares by Blackrock
 
