@@ -123,12 +123,37 @@ Source: iShares by Blackrock
 
 ## Model Analysis Using IWV
 
-### 6 Model Simulation
-![](cumprods.png)
+In this part of the project, we will develop trading strategies using various machine learning algorithms. We use the IWV index as an example since it tracks the investment results of a broad-based index composed of U.S. equities. 
+
+The input variables are the fast and slow simple moving averages (4 and 100 days, respectively). The target is the trading signal (1:buy, -1: sell) based on the actual return for each day. We split the data into training and testing samples. The input variables are normalized using StandardScaler. We considered seven machine learning models:
+
+* Logistic Regression
+* Support Vector Machines
+* Decision Trees
+* Random Forest
+* K-Nearest Neighbor
+* Gradient Boosting
+* AdaBoost
+
+After training the models on the training data, we evaluated the performance of each model on the testing data. This table summarizes the accuracy, precision and recall of each model:
+
+| |Accuracy |Precision (-1) |Recall (-1) |Precision (1) |Recall (1)|
+|:----|:----|:----|:----|:----|:----|
+|Logistic Regression |0.531635 |0.452055 |0.058615 |0.536713 |0.938838|
+|Support Vector Machines |0.540674 |0.833333 |0.008881 |0.539224 |0.998471|
+|Decision Trees |0.534100 |0.444444 |0.028419 |0.536833 |0.969419|
+|Random Forest |0.535744 |0.476190 |0.035524 |0.537872 |0.966361|
+|K-Nearest Neighbor |0.537387 |0.500000 |0.039076 |0.538789 |0.966361|
+|Gradient Boosting |0.534922 |0.451613 |0.024867 |0.537099 |0.974006|
+|AdaBoost |0.537387 |0.500000 |0.021314 |0.538139 |0.981651|
+
+This figure shows the accumulative returns using each model.
+
+![](figures/cumreturns.png)
 
 ### Takeaways
 
-The Support Vector machines model outperformed the actual returns over the time period, while the Logistic Regression model underperformed. Both the Random Forest and Naive Bayes were nearly equivalent to the actual returns. 
+The Support Vector machines model outperformed the actual returns over the time period, while the Logistic Regression model underperformed. #Both the Random Forest and Naive Bayes were nearly equivalent to the actual returns. 
 
 ## Team 2 Contributors:
 
