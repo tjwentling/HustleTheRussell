@@ -8,8 +8,6 @@ In HussleTheRussell, we are analyzing the top 7 Russell indexes to determine how
 
 Start Date of Training Data: 01/01/2018
 
-Start Date of Prediction Data: 10/31/2022
-
 End Date of Prediction Data: 6/30/2023
 
 ## Indices
@@ -27,7 +25,7 @@ Tools:
 * Sklearn
 * keras
 * hv.plot
-* macroeconomic data (government sites)
+
 
 
 ![image](https://github.com/tjwentling/HustleTheRussell/assets/57773931/f601c6f7-a9c1-422e-8063-f6174c73d241)
@@ -100,10 +98,10 @@ The Support Vector machines model outperformed the actual returns over the time 
 
 ## Team 2 Contributors:
 
-Susan Bengo - Conclusion
-Michael Cody - 
-TJ Wentling - Intro
-Tingjun Yang - 
+Susan Bengo - Conclusion<br>
+Michael Cody - <br>
+TJ Wentling - Intro <br>
+Tingjun Yang - <br>
 
 ## References only REMOVE THIS BEFORE PRESENTATION!:
 
