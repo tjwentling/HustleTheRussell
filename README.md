@@ -151,7 +151,7 @@ This figure shows the accumulative returns using each model.
 
 ![](figures/cumreturns.png)
 
-| |Strategy Returns Logistic Regression |Strategy Returns Support Vector Machines |Strategy Returns Decision Trees |Strategy Returns Random Forest |Strategy Returns K-Nearest Neighbor |Strategy Returns Gradient Boosting |Strategy Returns AdaBoost |Actual Returns|
+| |Logistic Regression |Support Vector Machines |Decision Trees |Random Forest |K-Nearest Neighbor |Gradient Boosting |AdaBoost |Actual Returns|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
 |Total Returns|1.356014 |1.618632 |1.450105 |1.514153 |1.551258 |1.545995 |1.513539 |1.47576|
 ### Takeaways
