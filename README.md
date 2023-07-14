@@ -64,9 +64,6 @@ Tools:
 * hv.plot
 
 
-
-![image](https://github.com/tjwentling/HustleTheRussell/assets/57773931/f601c6f7-a9c1-422e-8063-f6174c73d241)
-
 > ## Backgound of the Russell:
 >
 >> Created in 1984, the Russell 2000 Index follows the performance of a group of roughly 2,000 small-cap stocks and is a common economic indicator for that segment of the U.S. market.
