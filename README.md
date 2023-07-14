@@ -22,24 +22,24 @@ Value = lower PE ratios, higher book/value ratios, higher dividend yields (spend
 
 ![](figures/mc_all_performance.png)
 
-# Over 5.5 year period:
+** Over 5.5 year period:
 Significant outperformance of large cap stocks (especially growth)
 Growth stocks across cap rebounded better after recession due to injection of cash into markets and lower rates, creating an optimal situation for companies with higher levels of debt
 
 Using the logistic regression and predicted B/S signals, back-tested trading algorithms.
 
-# Russell 1000 Total
+** Russell 1000 Total
 ![](figures/R1T_perf.png)
 ![](figures/R1T_class.png)
 
 
-# Russell 1000 Value
+** Russell 1000 Value
 ![](figures/R1V_perf.png)
 ![](figures/R1v_class.png)
 
 
 
-# Russell 2000 Value
+** Russell 2000 Value
 ![](figures/R2V_perf.png)
 ![](figures/R2V_class.png)
 
