@@ -138,7 +138,7 @@ This figure shows the accumulative returns using each model.
 
 ![](figures/cumreturns.png)
 
-![](figures/returns_final.png)
+![](figures/results_final.png)
 
 ### Takeaways
 
