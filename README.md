@@ -14,6 +14,33 @@ End Date of Prediction Data: 6/30/2023
 
 ![](figures/image.png)
 
+Large Cap = large companies such as Apple, Microsoft, etc. (typically > $40-50B)
+Small Cap = smaller companies (typically less than $6-7B)
+
+Growth = higher PE ratios, earlier stage companies with more growth potential
+Value = lower PE ratios, higher book/value ratios, higher dividend yields (spend on dividends to keep investors interested given lower growth potential)
+
+![](figures/mc_all_performance.png)
+
+Over 5.5 year period:
+Significant outperformance of large cap stocks (especially growth)
+Growth stocks across cap rebounded better after recession due to injection of cash into markets and lower rates, creating an optimal situation for companies with higher levels of debt
+
+Using the logistic regression and predicted B/S signals, back-tested trading algorithms.
+
+#Russell 1000 Total
+![](figures/R1T_perf.png)
+![](figures/R1T_class.png)
+
+#Russell 1000 Value
+![](figures/R1V_perf.png)
+![](figures/R1v_class.png)
+
+#Russell 1000 Value
+![](figures/R2V_perf.png)
+![](figures/R2V_class.png)
+
+
 ## Summary
 
 Our analysis attemps to predict future performance of various equity market stylistic factors by analyzing historical return profiles of 7 Russell ETFs that comprise the entire spectrum of the US equity market. This analysis will also incorporate macroeconomic data points that will help us describe results and potential deviations in predicted relative returns. 
