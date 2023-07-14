@@ -138,9 +138,8 @@ This figure shows the accumulative returns using each model.
 
 ![](figures/cumreturns.png)
 
-| |Logistic Regression |Support Vector Machines |Decision Trees |Random Forest |K-Nearest Neighbor |Gradient Boosting |AdaBoost |Actual Returns|
-|:----|:----|:----|:----|:----|:----|:----|:----|:----|
-|Total Returns|1.356014 |1.618632 |1.450105 |1.514153 |1.551258 |1.545995 |1.513539 |1.47576|
+![](figures/returns_final.png)
+
 ### Takeaways
 
 The Support Vector machines model outperformed the actual returns over the time period, while the Logistic Regression model underperformed.  
@@ -148,9 +147,9 @@ The Support Vector machines model outperformed the actual returns over the time 
 ## Team 2 Contributors:
 
 Susan Bengo - Conclusion<br>
-Michael Cody - <br>
+Michael Cody - Data <br>
 TJ Wentling - Intro <br>
-Tingjun Yang - <br>
+Tingjun Yang - Data <br>
 
 ## References only REMOVE THIS BEFORE PRESENTATION!:
 
