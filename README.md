@@ -151,9 +151,12 @@ This figure shows the accumulative returns using each model.
 
 ![](figures/cumreturns.png)
 
+| |Strategy Returns Logistic Regression |Strategy Returns Support Vector Machines |Strategy Returns Decision Trees |Strategy Returns Random Forest |Strategy Returns K-Nearest Neighbor |Strategy Returns Gradient Boosting |Strategy Returns AdaBoost |Actual Returns|
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|Total Returns|1.356014 |1.618632 |1.450105 |1.514153 |1.551258 |1.545995 |1.513539 |1.47576|
 ### Takeaways
 
-The Support Vector machines model outperformed the actual returns over the time period, while the Logistic Regression model underperformed. #Both the Random Forest and Naive Bayes were nearly equivalent to the actual returns. 
+The Support Vector machines model outperformed the actual returns over the time period, while the Logistic Regression model underperformed.  
 
 ## Team 2 Contributors:
 
