@@ -38,7 +38,6 @@ Using the logistic regression and predicted B/S signals, back-tested trading alg
 ![](figures/R1v_class.png)
 
 
-
 **Russell 2000 Value**
 ![](figures/R2V_perf.png)
 ![](figures/R2V_class.png)
