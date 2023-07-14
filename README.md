@@ -29,16 +29,24 @@ Growth stocks across cap rebounded better after recession due to injection of ca
 Using the logistic regression and predicted B/S signals, back-tested trading algorithms.
 
 **Russell 1000 Total**
+
+
 ![](figures/R1T_perf.png)
 ![](figures/R1T_class.png)
 
 
+
 **Russell 1000 Value**
+
+
 ![](figures/R1V_perf.png)
 ![](figures/R1v_class.png)
 
 
+
 **Russell 2000 Value**
+
+
 ![](figures/R2V_perf.png)
 ![](figures/R2V_class.png)
 
